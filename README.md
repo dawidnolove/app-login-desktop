@@ -1,2 +1,1 @@
-# loginform
-php, html, css, sql
+login stack boilerplate
